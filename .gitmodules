@@ -1,3 +1,6 @@
 [submodule "vendor/tmux-mem-cpu-load"]
 	path = vendor/tmux-mem-cpu-load
 	url = https://github.com/touchao123/tmux-mem-cpu-load.git
+[submodule "vendor/showmydisk"]
+	path = vendor/showmydisk
+	url = https://github.com/touchao123/showmydisk.git
